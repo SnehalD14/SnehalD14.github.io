@@ -697,7 +697,7 @@ border-radius: 50%;
 	-webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
     transform: rotate(90deg);
     -ms-transform: rotate(90deg);
-    left: -15px;
+    left: -20px;
     padding: 5px 25px;
     position: absolute;
     text-align: center;
